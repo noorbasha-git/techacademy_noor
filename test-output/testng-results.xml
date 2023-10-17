@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-17T15:26:30 IST" name="Default suite" finished-at="2023-10-17T15:27:07 IST" duration-ms="36615">
+  <suite started-at="2023-10-17T16:35:38 IST" name="Default suite" finished-at="2023-10-17T16:36:04 IST" duration-ms="26011">
     <groups>
     </groups>
-    <test started-at="2023-10-17T15:26:30 IST" name="Default test" finished-at="2023-10-17T15:27:07 IST" duration-ms="36615">
+    <test started-at="2023-10-17T16:35:38 IST" name="Default test" finished-at="2023-10-17T16:36:04 IST" duration-ms="26011">
       <class name="com.portal.test.Login">
-        <test-method signature="portal_loin()[pri:0, instance:com.portal.test.Login@49049a04]" started-at="2023-10-17T15:26:30 IST" name="portal_loin" finished-at="2023-10-17T15:27:07 IST" duration-ms="36564" status="PASS">
+        <test-method signature="portal_loin()[pri:0, instance:com.portal.test.Login@49049a04]" started-at="2023-10-17T16:35:38 IST" name="portal_loin" finished-at="2023-10-17T16:36:04 IST" duration-ms="25945" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- portal_loin -->
